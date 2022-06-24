@@ -4,7 +4,7 @@
   
 2022年6月24号修改
  添加GoldHEN 2.1.1 和 GoldHEN 2.1.2
-链接🔗(https://myoko.github.io)↞访问此
+链接🔗['破解网页'](https://myoko.github.io)
 
 <br />
 </details>
