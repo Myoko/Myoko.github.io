@@ -73,6 +73,7 @@ files\LinuxEEPLY.bin
 files\LinuxInternal.bin
 files\LinuxNOedid.bin
 files\Mira.bin
+files\ps4debug.bin
 files\Offline_Cache_Backup.bin
 files\Offline_Cache_Restore.bin
 files\OrbisAFR.bin
